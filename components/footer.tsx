@@ -31,16 +31,7 @@ const Footer: React.FunctionComponent = () => (
                 <h3>Exchange</h3>
                 <ul>
                     <li>
-                        <a href='https://v1.uniswap.exchange/swap/0x31Bb711de2e457066c6281f231fb473FC5c2afd3'>Uniswap</a>
-                    </li>
-                    <li>
-                        <a href='https://trade.resfinex.com/?pair=VETH_ETH'>Resfinex</a>
-                    </li>
-                    <li>
-                        <a href='https://fatbtc.com/trading?currency=VETH%2FUSDT&freetab=2'>FatBTC</a>
-                    </li>
-                    <li>
-                        <a href='https://forkdelta.app/#!/trade/0x31bb711de2e457066c6281f231fb473fc5c2afd3-ETH'>Forkdelta</a>
+                        <a href='https://v1.uniswap.exchange/swap/0x75572098dc462F976127f59F8c97dFa291f81d8b'>Uniswap</a>
                     </li>
                 </ul>
             </div>
@@ -54,7 +45,7 @@ const Footer: React.FunctionComponent = () => (
                         <a href='https://www.coingecko.com/en/coins/vether'>CoinGecko</a>
                     </li>
                     <li>
-                        <a href='https://etherscan.io/address/0x31bb711de2e457066c6281f231fb473fc5c2afd3'>EtherScan</a>
+                        <a href='https://etherscan.io/address/0x75572098dc462F976127f59F8c97dFa291f81d8b'>EtherScan</a>
                     </li>
                 </ul>
             </div>
